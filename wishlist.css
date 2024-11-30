@@ -1,8 +1,15 @@
 .name-button{
-    display: inline-block;
-    background-color: none;
+    display: block;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
     color: darkblue;
     border: 1px solid cyan;
     padding: 10px;
     border-radius: 10px;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
