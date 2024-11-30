@@ -1,0 +1,8 @@
+.name-button{
+    display: inline-block;
+    background-color: none;
+    color: darkblue;
+    border: 1px solid cyan;
+    padding: 10px;
+    border-radius: 10px;
+}
